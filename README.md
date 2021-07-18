@@ -1,13 +1,11 @@
 # Hi there. I am Daeron 👋 . Welcome to my GitHub Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DaeronHTV.repoName)
 
-- 🔭 I am currently apprentice as an interoperability engineer.
-- 🌱 Currently learning : C# - Angular and .
-- 💬 Ask me about: Java, HTML/CSS, Javascript.
-- 📫 How to contact me: <a href="mailto:cita.avan@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+- 🔭 Je suis actuellement étudiant en master MIAGE en alternance. Je suis durant mon alternance apprenti au sein de Dedalus France dans le domaine de l'interopérabilité.
+- 📫 Pour me contacter : <a href="mailto:cita.avan@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
  <a href="https://www.linkedin.com/in/aurelien-avanzino/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
  <a href="https://www.facebook.com/daeron.trostk.5/"><img alt="Facebook" src="https://img.shields.io/badge/%20-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
-## Tech Stack
+## Technologies 
 <p>
   <img alt="C/C++" src="https://img.shields.io/badge/%20-C%2FC%2B%2B-lightgrey?style=flat-square&logo=c&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/%20-C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
@@ -29,27 +27,12 @@
   <img alt="XSD" src="https://img.shields.io/badge/XSD-green?style=flat-square&logo=xsd&logoColor=white" />
 </p>
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My GitHub Stats
+## Statistiques GitHub
 
  <img src="https://github-readme-stats.vercel.app/api?username=DaeronHTV&show_icons=true&theme=gotham" alt="daeronhtv" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DaeronHTV&theme=dark" width="48%" >
  
  **N.B : I work principaly with GitLab. If you want to see all the other projet and repositories go to my GitLab Page : <a href="https://gitlab.com/AurelienAVZN" target="_blank">GitLab Page</a>**  
  
-## Top Languages
+## Top Langages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeronHTV&layout=compact)
