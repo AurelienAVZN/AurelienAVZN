@@ -39,21 +39,23 @@ Adresse mail : cita.avan@gmail.com
 
 # Principales compétences
 
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img alt="C/C++" src="https://img.shields.io/badge/%20-C%2FC%2B%2B-lightgrey?style=flat-square&logo=c&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/%20-C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
-<img alt="ASP .Net" src="https://img.shields.io/badge/%20-ASP .Net-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
-<img alt=".Net Core" src="https://img.shields.io/badge/%20-.Net Core-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Typscript" src="https://img.shields.io/badge/Typscript%20-%231572B6.svg?style=flat-square&logo=typescript&logoColor=black" />
-<img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-<img alt="XML" src="https://img.shields.io/badge/XML-green?style=flat-square&logo=xml&logoColor=white" />
-<img alt="XSLT" src="https://img.shields.io/badge/XSLT-green?style=flat-square&logo=xslt&logoColor=white" />
-<img alt="XSD" src="https://img.shields.io/badge/XSD-green?style=flat-square&logo=xsd&logoColor=white" />
+<p>
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="C/C++" src="https://img.shields.io/badge/%20-C%2FC%2B%2B-lightgrey?style=flat-square&logo=c&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/%20-C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
+    <img alt="ASP .Net" src="https://img.shields.io/badge/%20-ASP .Net-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
+    <img alt=".Net Core" src="https://img.shields.io/badge/%20-.Net Core-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="Typscript" src="https://img.shields.io/badge/Typscript%20-%231572B6.svg?style=flat-square&logo=typescript&logoColor=black" />
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+    <img alt="XML" src="https://img.shields.io/badge/XML-green?style=flat-square&logo=xml&logoColor=white" />
+    <img alt="XSLT" src="https://img.shields.io/badge/XSLT-green?style=flat-square&logo=xslt&logoColor=white" />
+    <img alt="XSD" src="https://img.shields.io/badge/XSD-green?style=flat-square&logo=xsd&logoColor=white" />
+</p>
 
 ---
 
