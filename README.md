@@ -39,8 +39,7 @@ Adresse mail : cita.avan@gmail.com
 
 # Principales compétences
 
-<p>
- <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="C/C++" src="https://img.shields.io/badge/%20-C%2FC%2B%2B-lightgrey?style=flat-square&logo=c&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/%20-C%23-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
 <img alt="ASP .Net" src="https://img.shields.io/badge/%20-ASP .Net-blueviolet?style=flat-square&logo=csharp&logoColor=white"/>
@@ -54,14 +53,27 @@ Adresse mail : cita.avan@gmail.com
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="XML" src="https://img.shields.io/badge/XML-green?style=flat-square&logo=xml&logoColor=white" />
 <img alt="XSLT" src="https://img.shields.io/badge/XSLT-green?style=flat-square&logo=xslt&logoColor=white" />
-<img alt="XSD" src="https://img.shields.io/badge/XSD-green?style=flat-square&logo=xsd&logoColor=white" />   
-</p>
+<img alt="XSD" src="https://img.shields.io/badge/XSD-green?style=flat-square&logo=xsd&logoColor=white" />
 
 ---
 
 # Projets et réalisations
 
 Découvrez mes derniers projets et réalisations dans le développement web, et bien plus encore.
+
+### TrainingTracker
+
+Le projet vise à développer une application multi-plateforme (web, mobile, desktop) dédiée au suivi de la santé et de la performance.
+Elle s’adresse principalement aux sportifs, mais reste accessible à toute personne souhaitant améliorer son hygiène de vie.
+
+**Fonctionnalités clés :**
+- Gestion des entraînements (planification, exercices, répétitions, performances).
+- Suivi nutritionnel (repas, calories, macros, objectifs).
+- Analyse de la progression (graphes, statistiques, historique).
+- Notifications intelligentes (rappels, conseils personnalisés).
+- Expérience fluide grâce à la synchronisation multi-plateformes.
+
+<a href="https://gitlab.com/AurelienAVZN/training-Tracker" target="_blank"><button>Voir plus</button></a>
 
 ### Plugins RPG Maker
 
