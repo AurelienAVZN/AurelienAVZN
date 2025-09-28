@@ -65,6 +65,8 @@ Découvrez mes derniers projets et réalisations dans le développement web, et 
 
 ### TrainingTracker
 
+<img src="https://gitlab.com/AurelienAVZN/training-Tracker/-/raw/main/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png?ref_type=heads"/>
+
 Le projet vise à développer une application multi-plateforme (web, mobile, desktop) dédiée au suivi de la santé et de la performance.
 Elle s’adresse principalement aux sportifs, mais reste accessible à toute personne souhaitant améliorer son hygiène de vie.
 
@@ -79,23 +81,17 @@ Elle s’adresse principalement aux sportifs, mais reste accessible à toute per
 
 ### Plugins RPG Maker
 
-<img width="400" height="200" src="https://firebasestorage.googleapis.com/v0/b/cvavanzino.appspot.com/o/img%2Fprojets%2Frpg_maker.jpg?alt=media&token=b79dd94c-24e2-4c92-b086-0073afb1a889">
-
 Réalisation du plugins divers en javascript pour RPG Maker MV/MZ permettant la réalisation de jeux vidéo de type RPG
 
 <a href="https://itch.io/c/686188/avsoft-studios-mv-plugins" target="_blank"><button>Voir plus</button></a>
 
 ### CodePen
 
-<img width="400" height="250" src="https://firebasestorage.googleapis.com/v0/b/cvavanzino.appspot.com/o/img%2Fprojets%2FcodePen.png?alt=media&token=61c81d0e-2b57-4d27-8dfe-d28b30a2176c">
-
 Ici je mets toutes mes réalisation front-end que j'utilisde dans mes projets personnels. Je suis pas spécialiste mais j'essaye à chaque fois de tout faire à la main.
 
 <a href="https://codepen.io/aurelien-avanzino" target="_blank"><button>Voir plus</button></a>
 
 ### HighTower
-
-<img width="400" height="250" src="https://firebasestorage.googleapis.com/v0/b/cvavanzino.appspot.com/o/img%2Fprojets%2FhighTower.png?alt=media&token=772a86f4-6950-47e5-a00d-f8b984fd8218">
 
 Il s'agit d'un petit RPG en cours de développement grâce à l'utilisation de RPG Maker MV et le langage javacript.
 
