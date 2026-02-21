@@ -5,6 +5,7 @@
 Bonjour à tous 👋, je suis un ingénieur développement en intéropérabilité dans le domaine médical. Je m'amuse à faire des petits projets par ci par là pour apprendre et me former de manière continue.
 
 Adresse mail : cita.avan@gmail.com
+Mon site personnel : https://aurelien-avanzino.com/
 
 <a href="https://github.com/AurelienAVZN" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" height="1em">
